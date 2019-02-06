@@ -1,0 +1,12 @@
+class TheMeauwntain(Encounter):
+class AHelpingClaw(Encounter):
+class GoblinAttack(Encounter):
+class TrollBridge(Encounter):
+class SwordInTheLake(Encounter):
+class HellishAttackers(Encounter):
+class BMIGivesAHand(Encounter):
+class TheWitchHunter(Encounter):
+class AMurderOfKenku(Encounter):
+class ARiverOfWoe(Encounter):
+class TownInNeed(Encounter):
+class FaceTheWizard(Encounter):
